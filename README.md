@@ -24,6 +24,10 @@ Si cazamos gente comprometida, esta iniciativa busca conectar a los desarrollado
 
 Nota: Este repo se utilizará para la clase de github y un poco para enseñar HTML, CSS, JS a los nuevos.
 
+Favor registrase en trello para que participen en la agenda y planeación de actividades, [Registro aqui](https://trello.com/uzi200/recommend) 
+
+Una vez registrados se agregarán al [Grupo en Trello](https://trello.com/b/vbgSpQZs/tareas-devhunter)
+
 - Clase 1: Presentación sobre git y github (Feb 5, 2015), [Link](http://juliocesar.io/talks/2014/11/28/git-y-github-like-a-boss/)
 
 
