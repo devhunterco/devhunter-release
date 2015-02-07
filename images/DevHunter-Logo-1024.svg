@@ -9,15 +9,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1027"
-   height="196.88474"
+   width="1028"
+   height="198.10185"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
    inkscape:export-filename="/home/ivajo/Imágenes/DevHunter-5.png"
    inkscape:export-xdpi="151"
    inkscape:export-ydpi="151"
-   sodipodi:docname="DevHunter-Logo-1024.svg">
+   sodipodi:docname="DevHunter-Logo-300.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -27,19 +27,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="79.466848"
-     inkscape:cy="177.11306"
+     inkscape:zoom="1.8101934"
+     inkscape:cx="223.02622"
+     inkscape:cy="113.73088"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     fit-margin-top="1.5"
-     fit-margin-left="1.5"
-     fit-margin-right="1.5"
+     fit-margin-top="2"
+     fit-margin-left="2"
+     fit-margin-right="2"
      fit-margin-bottom="1.5"
-     inkscape:window-width="1366"
+     inkscape:window-width="1360"
      inkscape:window-height="746"
-     inkscape:window-x="0"
+     inkscape:window-x="1366"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -58,56 +58,65 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-199.92858,-366.26655)">
+     transform="translate(-199.42858,-365.20833)">
     <g
        id="g3771"
-       transform="matrix(5.3218291,0,0,5.3218291,-870.53986,-2427.3608)">
+       transform="matrix(5.3371381,0,0,5.3371381,-873.62353,-2435.9596)">
       <rect
-         ry="1.5208617"
-         rx="1.449303"
+         ry="2.1391752"
+         rx="2.2884097"
          y="525.2193"
          x="201.42857"
          height="35.535713"
          width="72.14286"
          id="rect2993"
          style="fill:#3cadd4;fill-opacity:1;stroke:none" />
-      <flowRoot
-         transform="translate(80.714286,33.428571)"
+      <g
+         transform="matrix(0.95889386,0,0,1.0576689,83.394296,3.1976544)"
          style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
-         id="flowRoot2985"
-         xml:space="preserve"><flowRegion
-           id="flowRegion2987"><rect
-             style="fill:#ffffff"
-             y="483.79074"
-             x="122.85714"
-             height="157.14285"
-             width="480"
-             id="rect2989" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Droid Sans Arabic;-inkscape-font-specification:Droid Sans Arabic"
-           id="flowPara2991">Dev</flowPara></flowRoot>      <text
-         transform="scale(1.0902107,0.91725388)"
+         id="flowRoot2985">
+        <path
+           d="m 125.80375,523.81532 0,-28.4 10.32,0 c 2.31998,3e-5 4.34665,0.37336 6.08,1.12 1.75998,0.74669 3.22664,1.76003 4.4,3.04 1.17331,1.28002 2.05331,2.78669 2.64,4.52 0.58664,1.70669 0.87997,3.53335 0.88,5.48 -3e-5,2.16001 -0.33336,4.12001 -1,5.88 -0.64003,1.73334 -1.57336,3.22667 -2.8,4.48 -1.22669,1.22667 -2.70669,2.18667 -4.44,2.88 -1.70668,0.66667 -3.62668,1 -5.76,1 l -10.32,0 m 18.76,-14.24 c -2e-5,-1.35998 -0.18669,-2.61331 -0.56,-3.76 -0.37335,-1.14665 -0.92002,-2.13331 -1.64,-2.96 -0.72002,-0.82664 -1.61335,-1.46664 -2.68,-1.92 -1.04002,-0.45331 -2.22668,-0.67997 -3.56,-0.68 l -4.8,0 0,18.72 4.8,0 c 1.35999,10e-6 2.55998,-0.23999 3.6,-0.72 1.06665,-0.47999 1.94665,-1.13333 2.64,-1.96 0.71998,-0.85332 1.26665,-1.85332 1.64,-3 0.37331,-1.14665 0.55998,-2.38665 0.56,-3.72"
+           style="font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Raleway;-inkscape-font-specification:Raleway Bold"
+           id="path2993"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 163.75375,524.21532 c -1.68001,0 -3.20001,-0.28 -4.56,-0.84 -1.36001,-0.58666 -2.52001,-1.37333 -3.48,-2.36 -0.96,-0.98666 -1.70667,-2.13333 -2.24,-3.44 -0.50667,-1.30666 -0.76,-2.67999 -0.76,-4.12 0,-1.49332 0.25333,-2.89332 0.76,-4.2 0.50666,-1.33332 1.24,-2.49331 2.2,-3.48 0.95999,-1.01331 2.11999,-1.81331 3.48,-2.4 1.38666,-0.58664 2.93332,-0.87998 4.64,-0.88 1.70665,2e-5 3.22665,0.29336 4.56,0.88 1.35998,0.58669 2.50665,1.37335 3.44,2.36 0.95998,0.98669 1.67998,2.13335 2.16,3.44 0.50664,1.30668 0.75998,2.66668 0.76,4.08 -2e-5,0.34668 -0.0134,0.68001 -0.04,1 -2e-5,0.32001 -0.0267,0.58668 -0.08,0.8 l -16.2,0 c 0.08,0.82668 0.27999,1.56001 0.6,2.2 0.31999,0.64001 0.73333,1.18667 1.24,1.64 0.50666,0.45334 1.07999,0.80001 1.72,1.04 0.63999,0.24001 1.30665,0.36001 2,0.36 1.06665,1e-5 2.06665,-0.25333 3,-0.76 0.95998,-0.53333 1.61332,-1.22666 1.96,-2.08 l 4.6,1.28 c -0.77335,1.60001 -2.01335,2.92 -3.72,3.96 -1.68002,1.01333 -3.69335,1.52 -6.04,1.52 m 5.44,-12.64 c -0.13335,-1.57332 -0.72002,-2.82665 -1.76,-3.76 -1.01335,-0.95998 -2.25335,-1.43998 -3.72,-1.44 -0.72001,2e-5 -1.40001,0.13335 -2.04,0.4 -0.61334,0.24002 -1.16001,0.58668 -1.64,1.04 -0.48001,0.45335 -0.88001,1.00002 -1.2,1.64 -0.29334,0.64002 -0.46667,1.34668 -0.52,2.12 l 10.88,0"
+           style="font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Raleway;-inkscape-font-specification:Raleway Bold"
+           id="path2995"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 182.99125,523.81532 -7.72,-20.96 5.52,0 5.32,16.6 5.36,-16.6 5.04,0 -7.72,20.96 -5.8,0"
+           style="font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Raleway;-inkscape-font-specification:Raleway Bold"
+           id="path2997"
+           inkscape:connector-curvature="0" />
+      </g>
+      <text
+         transform="scale(1.1067778,0.90352369)"
          sodipodi:linespacing="125%"
          id="text2995"
-         y="610.96075"
-         x="251.58273"
-         style="font-size:6.52607632px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ececec;fill-opacity:1;stroke:none;font-family:Sans"
+         y="620.24506"
+         x="247.81035"
+         style="font-size:6.62524843px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ececec;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Raleway Bold"
          xml:space="preserve"><tspan
-           y="610.96075"
-           x="251.58273"
+           y="620.24506"
+           x="247.81035"
            id="tspan2997"
-           sodipodi:role="line">Grupo de Software Libre Montería</tspan></text>
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway Bold">Grupo de Software Libre Montería</tspan></text>
       <text
-         transform="scale(0.96816276,1.0328842)"
+         transform="scale(0.95314124,1.0491625)"
          sodipodi:linespacing="125%"
          id="text2999"
-         y="535.87402"
-         x="282.78784"
-         style="font-size:35.96366119px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         y="527.53766"
+         x="287.16513"
+         style="font-size:37.60432816px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
-           y="535.87402"
-           x="282.78784"
+           y="527.53766"
+           x="287.16513"
            id="tspan3001"
-           sodipodi:role="line">Hunter</tspan></text>
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Raleway;-inkscape-font-specification:Raleway Bold">Hunter</tspan></text>
     </g>
   </g>
 </svg>
