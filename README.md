@@ -13,7 +13,7 @@ Si cazamos gente comprometida, esta iniciativa busca conectar a los desarrollado
 - [x] Landing de presentación
 - [x] Comprar dominio y servidor
 - [ ] Configurar Nginx, Gunicorn
-- [ ] Definir un layout
+- [x] Definir un layout
 - [x] Utilizar Trello para organización
 - [ ] Cosas de diseño
 - [ ] Deploy app Django
